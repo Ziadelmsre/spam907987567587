@@ -10,5 +10,5 @@ channel.send(`youtube`);
 })
  
  
-client.login('NTAzMjY3MDE0NDUwNjEwMjE3.DrYFXA.AfTopE0czjijO_HgM4rM3RuIBrg');
+client.login('NTAzMjIyMzg4MzYwNzQwODc0.DunaMw.j660S1qJj10Vp7LRpxNK_IWcF5Y');
 client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
